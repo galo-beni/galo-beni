@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hola soy Galo 👋
+
+### Estudiante de diseño 3D | [3D Enviroment Artist]
+
+### Sbre mí 
+🤗 Apasionado del modelado, esculpido y renderizado 🤗
+
+🔜 Actualmente estoy en búsqueda de prácticas en modelado 3D. 
 
 <!--
 **galo-beni/galo-beni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
