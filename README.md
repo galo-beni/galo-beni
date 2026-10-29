@@ -9,11 +9,15 @@
 
 ### Herramientas que utilizo
 
--Blender
--Substance Painter
--ZBrush
--Unity
--Unreal Engine
+-Blender	
+
+-Substance Painter	
+
+-ZBrush	
+
+-Unity	
+
+-Unreal Engine	
 
 <!--
 **galo-beni/galo-beni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
