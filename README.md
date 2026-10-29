@@ -19,6 +19,11 @@
 
 -Unreal Engine	
 
+### Canales de contacto 
+
+Linkedin: https://www.linkedin.com/in/galo-benivegna/
+
+Artstation: https://www.artstation.com/galob
 <!--
 **galo-beni/galo-beni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
