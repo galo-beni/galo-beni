@@ -7,7 +7,7 @@
 
 🔜 Actualmente estoy en búsqueda de prácticas en modelado 3D. 
 
-### Herramientas que utilizo
+### Herramientas, motores y tecnologías que utilizo
 
 -Blender	
 
@@ -19,7 +19,7 @@
 
 -Unreal Engine	
 
-### Canales de contacto 
+### Canales de contacto y enlaces a perfiles profesionales
 
 Linkedin: https://www.linkedin.com/in/galo-benivegna/
 
