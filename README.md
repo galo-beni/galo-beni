@@ -5,8 +5,6 @@
 ### Sobre mí 
 🤗 Apasionado del modelado, esculpido y renderizado 🤗
 
-🔜 Actualmente estoy en búsqueda de prácticas en modelado 3D. 
-
 ### Herramientas, motores y tecnologías que utilizo
 
 -Blender	
@@ -18,6 +16,9 @@
 -Unity	
 
 -Unreal Engine	
+
+### Metas a corto plazo para tu curso o proyecto
+🔜 Actualmente estoy en búsqueda de prácticas en modelado 3D 🔜
 
 ### Canales de contacto y enlaces a perfiles profesionales
 
